@@ -41,4 +41,4 @@ README.md        - Эта инструкция
    (обратите внимание на точку в конце команды)
 
 4. Запуск:
-   java -jar Snake.jar"
+   java -jar Snake.jar
